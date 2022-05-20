@@ -3,10 +3,12 @@
 
 **Part 0: Welcome!**
 
-Just a modified Psych Engine. That's all. This modified Psych Engine is for the mod, **A Generic Friday Night!** The link is here, as well as somewhere in part 1. If this source code has anything wrong (say that it wouldn't compile, it happens.), let me know so I can get that shit fixed. I have files everywhere so I may have misplaced some shit. I read GitHub shit very now and then so I will find it in within a week. Please be paitient. ;-; In addition, if a problem is "game-breaking" or "TwoBit, you fucking screwed up,", please don't issue and issue, but instead, reach out to me directly through my Discord DMs (TwoBit#0002) or my Twitter DMs (@ThatIdiotTwoBit). I suggest going to my Discord DMs because I read those a lot often than on Twitter, but both ways are good ways of reaching out to me. If Psych Engine is outdated, also do let me know so I can port the mod into Psych Engine's newer version. (Ports psych engine to psych engine lmao)
+Just a modified Psych Engine. That's all. This modified Psych Engine is for the mod, **A Generic Friday Night!** The link is here, as well as somewhere in part 1. If this source code has anything wrong (say that it wouldn't compile, it happens.), let me know so I can get that shit fixed. I have files everywhere so I may have misplaced some shit. I read GitHub shit very now and then so I will find it in within a week. Please be paitient. ;-; In addition, if a problem is "game-breaking" or "TwoBit, you fucking screwed up,", please don't issue and issue, but instead, reach out to me directly through my Discord DMs (**TwoBit#0002**) or my Twitter DMs (**@ThatIdiotTwoBit**). I suggest going to my Discord DMs because I read those a lot often than on Twitter, but both ways are good ways of reaching out to me. If Psych Engine is outdated, also do let me know so I can port the mod into Psych Engine's newer version. (Ports psych engine to psych engine lmao)
 
 - Twitter (TwoBit): https://twitter.com/ThatIdiotTwoBit
 - Twitter (Mod): https://twitter.com/fnfgeneric
+- Mod Download Link (GameBanana): 
+- Mod Download Link (GameJolt): 
 
 **Part 1: Game**
 
@@ -58,5 +60,10 @@ Other Information:
 - A lot of us are minors, do not draw lewd or rule 34 art of our characters.
 - If your mod characters are in the mod and you **DO NOT** want them there, DM me on Discord or Twitter and I'll remove them right when I see it (and apply it to the next update)
 - If you want to work on the mod, DM me on Discord ONLY and be ready to show some work.
+- If things with Spotify works out for me, all songs composed by me will be available on Spotify for you to listen to. At the time of Friday, May 20th, 2022 at 1:38 P.M. CDT, those songs should be *Evanesce* and *Nevermore*, but none released to Spotify as of now. 
+- Source code will be available for each week after each release.
+- Early Access/Beta Testers will be available to those who ask for it. We have a limited amount of spots remaining, so sign up while you can. Beta Testers/Early Access members will have a special reward for testing our mod. Of course, there are ways you can get yourself kicked out. 
+- If you are testing our mod, ***DO NOT LEAK THE BUILD***. You and many others will get a consequence for it. You don't want to be the reason this mod ends up trashed, right?
+- If you are inviting someone into the beta testing, **YOU HAVE TO LET ME KNOW**. Otherwise, I'd think you leaked the build and commence the consequence for it.
 
 That's it. Uh. Stay Funky!
