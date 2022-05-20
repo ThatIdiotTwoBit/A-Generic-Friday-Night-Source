@@ -7,7 +7,7 @@ Just a modified Psych Engine. That's all. This modified Psych Engine is for the 
 
 - Twitter (TwoBit): https://twitter.com/ThatIdiotTwoBit
 - Twitter (Mod): https://twitter.com/fnfgeneric
-- Mod Download Link (GameBanana): 
+- Mod Download Link (GameBanana): https://gamebanana.com/wips/67387
 - Mod Download Link (GameJolt): 
 
 **Part 1: Game**
