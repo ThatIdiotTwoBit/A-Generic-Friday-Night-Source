@@ -1,4 +1,5 @@
 # A-Generic-Friday-Night-Source
+"That really pisses on me." - someone in our dev team
 
 **Part 0: Welcome!**
 
