@@ -1,6 +1,5 @@
 # A-Generic-Friday-Night-Source
 ***"That really pisses on me."***
-***"A Generic Flashbang"***
 
 **Part 0: Welcome!**
 
