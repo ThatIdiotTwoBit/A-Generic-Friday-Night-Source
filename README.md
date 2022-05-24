@@ -1,5 +1,6 @@
 # A-Generic-Friday-Night-Source
 ***"That really pisses on me."***
+***"A Generic Flashbang"***
 
 **Part 0: Welcome!**
 
@@ -14,7 +15,7 @@ Just a modified Psych Engine. That's all. This modified Psych Engine is for the 
 
 This page is the source code, so you can take code and use it for your own mod. 
 If you are **looking for the mod to play**, here is the link. 
-**In order to launch the game through source code, you must have the compiling prequisites first. If you don't have them, follow the following steps. Otherwise, skip to Part 2.
+**In order to launch the game through source code, you must have the compiling prequisites first. If you don't have them, follow the following steps. Otherwise, skip to Part 2.**
 
 **NOTE:** When I refer to terminal, I mean Command Prompt, Windows PowerShell, Terminal in Visual Studio Code, etc.
 
@@ -35,7 +36,7 @@ In order to launch the game, you must install the following.
      - haxelib git flixel-addons https://github.com/HaxeFlixel/flixel-addon (dunno what this does)
      - haxelib git linc_luajit https://github.com/AndreiRudenko/linc_luajit (Allows Lua Script ?)
 - Visual Studio and Visual Studio Code
-  - **Visual Studio and Visual Studio Code are NOT the same thing. 
+  - **Visual Studio and Visual Studio Code are NOT the same thing.** 
      - https://code.visualstudio.com/docs/?dv=win (Visual Studio Code) - Get the **LATEST** version.
      - https://my.visualstudio.com/Downloads?q=visual%20studio%202019&wt.mc_id=o~msft~vscom~older-downloads (Visual Studio) Get the **2019** version.
        - For Visual Studio, select the 2019 Community version and only the community version (I never tried the other versions lmao).
